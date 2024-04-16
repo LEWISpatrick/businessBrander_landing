@@ -25,7 +25,7 @@ export const Hero = () => {
                                     target="_blank">
                                     <span className="relative inline-flex items-center">
                                         <span className="tracking-normal text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out">
-                                            My Instagram {" "}
+                                             Instagram {" "}
                                         </span>
                                          -&gt;
                                     </span>
@@ -33,16 +33,18 @@ export const Hero = () => {
                             </div>
                         </Link>
                     </div>
-                    <h1 className='pb-4 font-extrabold
-                    tracking-tight text-transparent text-7xl 
-                    lg:text-8xl bg-clip-text bg-gradient-to-r
-                    from-cyan-400 via-blue-600 to-cyan-500'
-                    data-aos='fade-down'
-                    >
+                    <h1 className='pb-4 font-extrabold tracking-tight text-transparent
+                                text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl
+                                bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-600 to-cyan-500'
+                        data-aos='fade-down'>
                         BusinessBrander
                     </h1>
-                    <span className='mb-8 text-lg text-zinc-100/40 font-medium '
-                    data-aos='fade-down' data-aos-delay='250'> Grow social media →  get more clients → make more money 💸. </span>
+
+                    <span className='mb-4 sm:mb-8 text-sm sm:text-lg text-zinc-100/60 sm:text-zinc-100/40 font-medium'
+                        data-aos='fade-down' data-aos-delay='250'>
+                        Grow social media →  get more clients → make more money 💸.
+                    </span>
+
                 </div>
 
                 <div className="pt-10 flex items-center justify-center w-full sm:flex-row" data-aos='fade-down' data-aos-delay='450'>

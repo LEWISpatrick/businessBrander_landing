@@ -28,13 +28,16 @@ export const GrowSocial = () => {
                             <Benefits />
                             
                             <div className="pt-10 flex items-center justify-center w-full sm:flex-row" >
-                                <Link
-                                    className="justify-center flex items-center whitespace-nowrap transition duration-150 ease-in-out font-medium rounded px-4 py-1.5 text-zinc-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white group mb-16"
-                                    href="#pricing" data-aos='fade-down'>
-                                        
-                                        Sign Up Now — First 5 Clients Get an Exclusive $129/mo Deal! <ArrowRight className="w-3 h-3 ml-1 text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out" />
-                                        
-                                </Link>
+                            <Link
+                                className="justify-center flex items-center whitespace-nowrap transition duration-150 ease-in-out font-medium rounded 
+                                        px-2 sm:px-4 py-1 text-sm sm:text-base md:text-lg
+                                        text-zinc-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white group mb-4 sm:mb-8 md:mb-16"
+                                href="#pricing" data-aos='fade-down'>
+                                
+                                Sign Up Now — First 5 Clients Get an Exclusive $129/mo Deal! <ArrowRight className="w-2 h-2 sm:w-3 sm:h-3 ml-1 text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out" />
+                                
+                            </Link>
+
                     </div>
         </div>
   )

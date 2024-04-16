@@ -6,7 +6,7 @@ import 'aos/dist/aos.css';
 import {GrowSocial} from './GrowSocial'
 import Benefits from "./benefits";
 import { Pricing } from "./pricing";
-import { Footer } from "./footer copy";
+import { Footer } from "./footer";
 import WhatWeDo from "./whatwedo";
 import Faq from "./faq";
 import { Calendly } from "./calendly";

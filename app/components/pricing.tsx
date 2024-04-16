@@ -13,9 +13,10 @@ const tiers = [
     description: "Reach 1K Followers in Just One Month or Pay Nothing!",
     features: [
       "Manage social media", "Get social media to 1k+ Followers",
-       "+Bonus: Free website+hosting+domain", 
+       "+Bonus: Website+hosting+domain", 
        "+Bonus: 15 min weekly call with marketing professional", // Added bonus feature ], cta: "Get Started for FREE", condition: "Reach 1K Followers in Just One Month or Pay Nothing!"  // Added bonus feature
-    ],
+        "Bonus: $50 Google Ads Credit: Perfect for boosting visibility and driving targeted traffic."
+      ],
     cta: "Get Started for FREE",
     condition: "Exclusive offer for our first five clients",
   },
