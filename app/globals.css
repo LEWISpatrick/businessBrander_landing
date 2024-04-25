@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  scroll-behavior: smooth;
+}
+/* This sets the background of the entire page to black */
+body {
+  background-color: #121212;
+  color: white; /* Sets the text color to white for better readability */
+}
+
